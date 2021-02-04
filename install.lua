@@ -1,5 +1,5 @@
 --installation script
---rhNbNbFE
+--U6ch7pw5
 --Version 1.0
 
 local libURL = "https://raw.githubusercontent.com/nicknaime/DraconicReactorController-1.12.2/1.0/lib/f.lua"
