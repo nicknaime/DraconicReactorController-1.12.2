@@ -2,7 +2,7 @@
 --rhNbNbFE
 --Version 1.0
 
-local libURL = "https://raw.githubusercontent.com/OmegaPhi115/Draconic-Evolution-Reactor-Controller/master/lib/f.lua"
+local libURL = "https://raw.githubusercontent.com/nicknaime/DraconicReactorController-1.12.2/1.0/lib/f.lua"
 local startupURL = "https://raw.githubusercontent.com/OmegaPhi115/Draconic-Evolution-Reactor-Controller/master/Draconic-Evolution-Reactor-Controller.lua"
 local lib, startup
 local libFile, startupFile
