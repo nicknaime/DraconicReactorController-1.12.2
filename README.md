@@ -2,6 +2,7 @@
 * Monitor and failsafe automation for your draconic evolution reactor
 * This program is a rewrite of acidjazz's code to make it work in 1.12.2
 * link to the original: https://github.com/acidjazz/drmon 
+* link to the guy who edited the original: https://github.com/OmegaPhi115/Draconic-Evolution-Reactor-Controller
 
 ![](examples/Reactor_1.png)
 
