@@ -35,7 +35,7 @@ Not done yet
 
 ### Installation
 * Your reactor output flux gate must be setup so that one side of it and one of your stabilizers touches a side of the advanced computer
-* By default, flux gate should touch the top side, stabilizer on the left of the computer
+* By default, flux gate should touch the right side, stabilizer on the top of the computer
   * If you want to use different sides you need to modify `startup` after you have installed this and specify the sides
 * Connect a modem to your input flux gate (the one connected to your reactor energy injector)
 * Connect a modem to your advanced computer (at the botom side)
