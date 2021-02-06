@@ -1,7 +1,7 @@
 local version = "1.0"
 -- modifiable variables
-local reactorSide = "left"
-local outputfluxgateSide = "top"
+local reactorSide = "top"
+local outputfluxgateSide = "right"
 
 local targetFieldStrengthPercent = 50
 local maxTemperature = 8000
